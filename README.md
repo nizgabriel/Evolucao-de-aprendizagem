@@ -47,7 +47,7 @@
     - *Sei que o LinkedIn é uma rede social voltada para profissionais e empresas, que permite destacar nossas experiências de trabalho, formações acadêmicas, habilidades e certificações. Para as empresas, a plataforma facilita a publicação de vagas de emprego, a busca por candidatos e a promoção de suas atividades.*
 
 
-## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
+# O que quero aprender sobre os assuntos que serão abordados nesse módulo?
 
 
 | **Conteúdo**  | **O que quero aprender** |
@@ -60,7 +60,7 @@
 | *Currículo e Carta de Apresentação*  | Nesta aula, gostaria de aprender como montar um currículo atraente para os recrutadores e criar uma boa carta de apresentação para ser chamado para uma entrevista.  |
 | *LinkedIn*  | Nesta aula, gostaria de aprender a editar o perfil no LinkedIn para torná-lo bem atraente e visível aos recrutadores, melhorando o networking, o desenvolvimento de carreira e a visibilidade no mercado de trabalho.  |
 
-## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
+# Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
 <details>
 <summary>Funções</summary>
