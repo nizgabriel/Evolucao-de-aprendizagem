@@ -1,4 +1,4 @@
-![CapaDesafioCarreira](https://github.com/nizgabriel/Evolucao-de-aprendizagem/assets/158636491/6e3591e7-4904-4566-a301-b3a24a18466c)
+![CapaDesafioCarreira](https://github.com/nizgabriel/Evolucao-de-aprendizagem/assets/158636491/dc81dc42-a09f-4bf4-b071-d7c01577fe14)
 
 
 > Desafio de Carreira do MD2
