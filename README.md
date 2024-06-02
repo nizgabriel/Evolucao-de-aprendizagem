@@ -82,14 +82,15 @@
 
   <details>
 <summary>Métodos de Strings</summary>
+      
+*Neste conteúdo, aprendi novos métodos de strings e como manipulá-las de forma eficiente. Vimos os métodos "Trim", "Substrings", "Uppercase", "Lowercase", "Slice", "Split", "Replace", "PadStart End" e "Includes". Esses métodos permitem desde verificar o tamanho de uma string até transformar seu conteúdo de diversas maneiras.*
 </details>
-
 
   <details>
 <summary>Métodos de Arrays</summary>
 </details>
 
-
+*Neste conteúdo, aprendi que os métodos de array são funções embutidas que podem ser chamadas em objetos do tipo `array` para realizar diversas operações de manipulação de elementos armazenados no array. Esses métodos permitem adicionar, remover, alterar, filtrar e percorrer os elementos de um array de forma eficiente.*
 
   <details>
 <summary>Gestão de Tempo</summary>
