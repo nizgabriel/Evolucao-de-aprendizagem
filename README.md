@@ -88,21 +88,27 @@
 
   <details>
 <summary>Métodos de Arrays</summary>
-</details>
 
 *Neste conteúdo, aprendi que os métodos de array são funções embutidas que podem ser chamadas em objetos do tipo `array` para realizar diversas operações de manipulação de elementos armazenados no array. Esses métodos permitem adicionar, remover, alterar, filtrar e percorrer os elementos de um array de forma eficiente.*
+</details>
 
   <details>
 <summary>Gestão de Tempo</summary>
+
+*Nesta aula com a Gabrielle Guido, aprendi vários pontos importantes sobre o que é o tempo, gestão do tempo, disciplina e ferramentas para organização. Abordamos a Priorização, que é saber identificar as tarefas mais importantes e urgentes, fundamental para a gestão de tempo eficaz, e também sobre a Organização das atividades. Isso inclui as ferramentas disponíveis, como 'Notion' e 'Trello', para criação de listas de tarefas, definição de prazos e alocação de tempo para cada atividade*
+
 </details>
 
 
 
   <details>
 <summary>Currículo e Carta de Apresentação</summary>
-
+      
+*Nesta aula com Fernando Rosa, aprendi como montar corretamente o currículo com a estrutura adequada e objetiva para ter mais chances de ser selecionado e tambem as etapas dos processos caso seja selecionado. Foi abordado também um pouco da visão do Tech Recruiter e as diferenças entre o currículo e o LinkedIn.*
 
 </details>
   <details>
 <summary>LinkedIn</summary>
+      
+ *Nesta aula com Beatriz Amorim, aprendi como funciona o LinkedIn, sobre as palavras-chave, como editar o perfil para ser mais visível aos recrutadores, como se candidatar a vagas utilizando filtros personalizados e sobre a importância de movimentar nossas publicações e fazer conexões.*
 </details>
