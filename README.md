@@ -64,12 +64,21 @@
 
 <details>
 <summary>Funções</summary>
+    
+*Neste conteúdo, aprendi o conceito de funções, como criar a sintaxe tradicional e a 'Arrow Function', e novas formas de criar uma função com parâmetros. Também aprendi a tipagem no TypeScript. Coloquei em prática realizando os exercícios.*
 </details>
 
 <details>
 <summary>Tipos de Dado II</summary>
+
+*Neste conteúdo reforcei os conhecimentos sobre tipagens no TypeScript, e aprofundei os conhecimentos em outros tipos e formas de manipulação. Aprendi sobre Tipos literais que nos ajudam a customizar os tipos do TypeScript para valores específicos, Type Narrowing que é uma técnica que utilizamos para tornar o tipo mais assertivo, e o Tipo Unknown, para lidar com dados desconhecidos.*
 </details>
 
+ <details>
+<summary>Tipos Utilitários</summary>
+     
+ *Neste conteúdo aprendi a construir tipos mais complexos, garantindo uma maior precisão e segurança na tipagem. Compreendi os conceitos básicos dos tipos utilitários, como o "Partial", "Pick", "Omit", "Record", "Exclude" e "Required". Esses tipos utilitários são muito valiosos para escrever código robusto e manter a segurança de tipos ao máximo no desenvolvimento TypeScript. Coloquei em prática realizando os exercícios.*
+</details>
 
   <details>
 <summary>Métodos de Strings</summary>
